@@ -15,3 +15,5 @@ Model	Test Accuracy
 - KNN	47%
 - CNN	56%
 
+Dataset
+>https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
